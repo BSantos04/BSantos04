@@ -6,7 +6,7 @@
 
 🤖 I'm currently working as an RPA Developer 
 
-⚡ Random fun fact: My favorite pokémon is Haxorus
+⚡ Fun fact: My favorite pokémon is Haxorus
 
 💡 Enthusiastic about software development, automation & process optimization, data science & data engineering
 
