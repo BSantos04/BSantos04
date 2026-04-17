@@ -25,3 +25,4 @@
 - Git
 - HTML
 - CSS
+- Jira
